@@ -1,4 +1,8 @@
 # Salsa Recipe
- Mix the following together
 
- gibberish blah blah blah
+ Mix the following together:
+ * tomatoes
+ * peppers
+ * cilantro
+ * oregano
+ 
